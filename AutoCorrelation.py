@@ -1,3 +1,6 @@
+####################################################################################################################################################
+# For the AutoCorrelation of CSV data file taken from Oscilloscope, which can be applied  
+
 # To call the different related libraries required for the program//
 
 import pandas as pd
