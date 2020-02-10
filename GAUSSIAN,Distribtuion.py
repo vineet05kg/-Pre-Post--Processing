@@ -118,9 +118,9 @@ x3 = np.linspace(-0.25, 0.25, int(csvfile_read_3.count()))
 x4 = np.linspace(-0.25, 0.25, int(csvfile_read_4.count()))
 x5 = np.linspace(-0.25, 0.25, int(csvfile_read_5.count()))
 
-w = 5.0 # To determine the length//
-h = 4.0 # To determine the breadth//
-d = 70 # To determine the depth of the figure//
+w = 5.0 
+h = 4.0
+d = 70 
 plt.figure(figsize=(w, h), dpi=d) # To plot the figure//
 plt.subplots_adjust(left=0.155)
 plt.subplots_adjust(bottom=0.15)
