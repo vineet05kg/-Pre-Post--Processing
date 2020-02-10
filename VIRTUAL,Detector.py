@@ -28,7 +28,6 @@ import numpy as np
 import random
 import pandas as pd
 import matplotlib.pyplot as plt
-from collections import Counter
 
 ##############################################################################################################
 # To locate and read the actual detector file for 'Vmin', 'Vmax', 'Vref' and other statistical parameters//
