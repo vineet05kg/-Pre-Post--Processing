@@ -21,8 +21,8 @@
 #           (1) the entropy evalution                                                                        #
 #           (2) power spectral density etc can be made...                                                    #
 ##############################################################################################################
-
 # To call the different related libraries required for the program//
+
 import csv
 import numpy as np
 import random
