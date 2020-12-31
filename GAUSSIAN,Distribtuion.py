@@ -3,8 +3,7 @@
 ##############################################################################################################
 
 ##############################################################################################################
-#          To plot the Gaussian curve of different sampling rate CSV file based on the outcome of            #
-#          statistical parameters of same...                                                                 #
+#          To plot the Gaussian curves of different sampling rate CSV file taken from Oscilloscope           #
 ##############################################################################################################
 
 # To call the different related libraries required for the program//
