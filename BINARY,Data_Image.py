@@ -14,6 +14,7 @@ List_x = []  # To initialise the list//
 with open(r'D:/Python/VacuumData_Analysis/ForAcquired_Date[18.Dec.2019]viaAPD/2.5MSas/Toeplitz1_1.csv') as csvfile:
     # To locate the binary data file//
     fileread = csv.reader(csvfile, quoting=csv.QUOTE_NONNUMERIC)  # To read the binary data file//
+    
 ##############################################################################################################
 
     for row in fileread:
