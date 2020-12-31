@@ -39,6 +39,7 @@ print("First n elements of all the columns of CSV data file =", csvfile_read.hea
 # elements of all the columns of CSV file//
 print("Total number of elements in the CSV data file =", int(csvfile_read.count()))  # To print the total elements
 # of CSV data file//
+
 ##############################################################################################################
 
 csvfile_min = csvfile_read.min()  # To determine the minimum value of the CSV data file//
