@@ -1,5 +1,5 @@
 ####################################################################################################################################################
-# For the AutoCorrelation of CSV data file taken from Oscilloscope, which can be applied  
+# For the AutoCorrelation of CSV data file taken from Oscilloscope//
 
 # To call the different related libraries required for the program//
 
